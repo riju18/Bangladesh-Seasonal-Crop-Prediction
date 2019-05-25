@@ -1,0 +1,707 @@
+,Area,PH,Season,Crop,Yield Goal,N,P,K,Cow_Dung,Poultry_Manure
+0,Thakurgra,3.8-5.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+1,Thakurgra,3.8-5.5,Rabi,Wheat,4.5,120,30,60,0,0
+2,Thakurgra,3.8-5.5,Rabi,Wheat,4.5,120,30,60,0,0
+3,Thakurgra,3.8-5.5,Rabi,Potato,30,135,30,90,5,3
+4,Thakurgra,3.8-5.5,Rabi,Marize,10,255,75,80,0,0
+5,Thakurgra,3.8-5.5,Rabi,Radish,60,150,45,80,5,3
+6,Thakurgra,3.8-5.5,Rabi,Cabbage,90,180,66,50,5,3
+7,Thakurgra,3.8-5.5,Rabi,Caluiflower,30,120,60,76,5,3
+8,Thakurgra,3.8-5.5,Kharif-1,Fallow,0,0,0,0,0,0
+9,Thakurgra,3.8-5.5,Kharif-1,Fallow,0,0,0,0,0,0
+10,Thakurgra,3.8-5.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+11,Thakurgra,3.8-5.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+12,Thakurgra,3.8-5.5,Kharif-1,Fallow,0,0,0,0,0,0
+13,Thakurgra,3.8-5.5,Kharif-1,Okra,16,90,21,30,5,3
+14,Thakurgra,3.8-5.5,Kharif-1,Brinjal,60,120,25,40,5,3
+15,Thakurgra,3.8-5.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+16,Thakurgra,3.8-5.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+17,Thakurgra,3.8-5.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+18,Thakurgra,3.8-5.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+19,Thakurgra,3.8-5.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+20,Thakurgra,3.8-5.5,Kharif-2,Fallow,0,0,0,0,0,0
+21,Thakurgra,3.8-5.5,Round The Year,Sugarcane,100,165,55,120,0,0
+22,Thakurgra,3.8-5.5,Round The Year,Sugarcane,100,165,55,120,0,0
+23,Thakurgra,3.8-5.5,Round The Year,Potato,15,70,15,45,0,0
+24,Panchagar,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+25,Panchagar,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+26,Panchagar,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+27,Panchagar,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+28,Panchagar,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+29,Panchagar,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+30,Panchagar,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+31,Panchagar,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+32,Panchagar,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+33,Panchagar,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+34,Panchagar,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+35,Panchagar,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+36,Panchagar,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+37,Panchagar,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+38,Panchagar,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+39,Panchagar,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+40,Panchagar,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+41,Panchagar,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+42,Panchagar,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+43,Panchagar,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+44,Panchagar,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+45,Panchagar,3.9-6.4,Round The Year,Sugarcane,100,165,55,120,0,0
+46,Panchagar,3.9-6.4,Round The Year,Sugarcane,100,165,55,120,0,0
+47,Panchagar,3.9-6.4,Round The Year,Potato,15,70,15,45,0,0
+48,Dinajpur,3.8-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+49,Dinajpur,3.8-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+50,Dinajpur,3.8-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+51,Dinajpur,3.8-6.4,Rabi,Potato,30,135,30,90,5,3
+52,Dinajpur,3.8-6.4,Rabi,Marize,10,255,75,80,0,0
+53,Dinajpur,3.8-6.4,Rabi,Radish,60,150,45,80,5,3
+54,Dinajpur,3.8-6.4,Rabi,Cabbage,90,180,66,50,5,3
+55,Dinajpur,3.8-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+56,Dinajpur,3.8-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+57,Dinajpur,3.8-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+58,Dinajpur,3.8-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+59,Dinajpur,3.8-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+60,Dinajpur,3.8-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+61,Dinajpur,3.8-6.4,Kharif-1,Oka,16,90,21,30,5,3
+62,Dinajpur,3.8-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+63,Dinajpur,3.8-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+64,Dinajpur,3.8-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+65,Dinajpur,3.8-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+66,Dinajpur,3.8-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+67,Dinajpur,3.8-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+68,Dinajpur,3.8-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+69,Dinajpur,3.8-6.4,Round The Year,Sugarcane,100,165,55,120,0,0
+70,Dinajpur,3.8-6.4,Round The Year,Sugarcane,100,165,55,120,0,0
+71,Dinajpur,3.8-6.4,Round The Year,Potato,15,70,15,45,0,0
+72,Kurigram,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+73,Kurigram,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+74,Kurigram,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+75,Kurigram,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+76,Kurigram,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+77,Kurigram,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+78,Kurigram,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+79,Kurigram,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+80,Kurigram,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+81,Kurigram,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+82,Kurigram,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+83,Kurigram,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+84,Kurigram,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+85,Kurigram,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+86,Kurigram,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+87,Kurigram,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+88,Kurigram,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+89,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+90,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+91,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+92,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+93,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+94,Kurigram,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+95,Kurigram,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+96,Lalmonirhat,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+97,Lalmonirhat,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+98,Lalmonirhat,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+99,Lalmonirhat,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+100,Lalmonirhat,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+101,Lalmonirhat,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+102,Lalmonirhat,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+103,Lalmonirhat,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+104,Lalmonirhat,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+105,Lalmonirhat,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+106,Lalmonirhat,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+107,Lalmonirhat,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+108,Lalmonirhat,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+109,Lalmonirhat,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+110,Lalmonirhat,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+111,Lalmonirhat,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+112,Lalmonirhat,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+113,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+114,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+115,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+116,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+117,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+118,Lalmonirhat,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+119,Lalmonirhat,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+120,Nilphamari,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+121,Nilphamari,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+122,Nilphamari,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+123,Nilphamari,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+124,Nilphamari,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+125,Nilphamari,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+126,Nilphamari,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+127,Nilphamari,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+128,Nilphamari,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+129,Nilphamari,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+130,Nilphamari,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+131,Nilphamari,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+132,Nilphamari,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+133,Nilphamari,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+134,Nilphamari,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+135,Nilphamari,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+136,Nilphamari,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+137,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+138,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+139,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+140,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+141,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+142,Nilphamari,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+143,Nilphamari,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+144,Rangpur,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+145,Rangpur,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+146,Rangpur,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+147,Rangpur,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+148,Rangpur,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+149,Rangpur,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+150,Rangpur,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+151,Rangpur,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+152,Rangpur,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+153,Rangpur,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+154,Rangpur,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+155,Rangpur,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+156,Rangpur,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+157,Rangpur,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+158,Rangpur,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+159,Rangpur,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+160,Rangpur,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+161,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+162,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+163,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+164,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+165,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+166,Rangpur,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+167,Rangpur,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+168,Gaibandha,3.9-6.4,Rabi,Boro Rice,7.5,150,65,65,0,0
+169,Gaibandha,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+170,Gaibandha,3.9-6.4,Rabi,Wheat,4.5,120,30,60,0,0
+171,Gaibandha,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+172,Gaibandha,3.9-6.4,Rabi,Potato,30,135,30,90,5,3
+173,Gaibandha,3.9-6.4,Rabi,Marize,10,255,75,80,0,0
+174,Gaibandha,3.9-6.4,Rabi,Radish,60,150,45,80,5,3
+175,Gaibandha,3.9-6.4,Rabi,Cabbage,90,180,66,50,5,3
+176,Gaibandha,3.9-6.4,Rabi,Caluiflower,30,120,60,76,5,3
+177,Gaibandha,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+178,Gaibandha,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+179,Gaibandha,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+180,Gaibandha,3.9-6.4,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+181,Gaibandha,3.9-6.4,Kharif-1,Jute (O),4.5,111,10,42,0,0
+182,Gaibandha,3.9-6.4,Kharif-1,Fallow,0,0,0,0,0,0
+183,Gaibandha,3.9-6.4,Kharif-1,Oka,16,90,21,30,5,3
+184,Gaibandha,3.9-6.4,Kharif-1,Brinjal,60,120,25,40,5,3
+185,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+186,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+187,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+188,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+189,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+190,Gaibandha,3.9-6.4,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+191,Gaibandha,3.9-6.4,Kharif-2,Fallow,0,0,0,0,0,0
+192,Rangpur,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+193,Rangpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+194,Rangpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+195,Rangpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+196,Rangpur,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+197,Rangpur,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+198,Rangpur,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+199,Rangpur,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+200,Rangpur,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+201,Rangpur,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+202,Rangpur,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+203,Rangpur,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+204,Rangpur,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+205,Rangpur,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+206,Rangpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+207,Rangpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+208,Rangpur,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+209,Rangpur,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+210,Rangpur,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+211,Rangpur,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+212,Rangpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+213,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+214,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+215,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+216,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+217,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+218,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+219,Rangpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+220,Rangpur,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+221,Rangpur,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+222,Rangpur,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+223,Nilphamari,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+224,Nilphamari,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+225,Nilphamari,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+226,Nilphamari,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+227,Nilphamari,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+228,Nilphamari,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+229,Nilphamari,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+230,Nilphamari,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+231,Nilphamari,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+232,Nilphamari,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+233,Nilphamari,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+234,Nilphamari,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+235,Nilphamari,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+236,Nilphamari,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+237,Nilphamari,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+238,Nilphamari,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+239,Nilphamari,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+240,Nilphamari,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+241,Nilphamari,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+242,Nilphamari,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+243,Nilphamari,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+244,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+245,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+246,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+247,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+248,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+249,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+250,Nilphamari,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+251,Nilphamari,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+252,Nilphamari,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+253,Nilphamari,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+254,Gaibandha,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+255,Gaibandha,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+256,Gaibandha,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+257,Gaibandha,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+258,Gaibandha,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+259,Gaibandha,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+260,Gaibandha,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+261,Gaibandha,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+262,Gaibandha,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+263,Gaibandha,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+264,Gaibandha,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+265,Gaibandha,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+266,Gaibandha,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+267,Gaibandha,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+268,Gaibandha,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+269,Gaibandha,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+270,Gaibandha,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+271,Gaibandha,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+272,Gaibandha,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+273,Gaibandha,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+274,Gaibandha,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+275,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+276,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+277,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+278,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+279,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+280,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+281,Gaibandha,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+282,Gaibandha,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+283,Gaibandha,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+284,Gaibandha,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+285,Dinajpur,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+286,Dinajpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+287,Dinajpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+288,Dinajpur,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+289,Dinajpur,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+290,Dinajpur,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+291,Dinajpur,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+292,Dinajpur,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+293,Dinajpur,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+294,Dinajpur,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+295,Dinajpur,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+296,Dinajpur,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+297,Dinajpur,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+298,Dinajpur,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+299,Dinajpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+300,Dinajpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+301,Dinajpur,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+302,Dinajpur,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+303,Dinajpur,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+304,Dinajpur,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+305,Dinajpur,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+306,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+307,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+308,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+309,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+310,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+311,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+312,Dinajpur,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+313,Dinajpur,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+314,Dinajpur,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+315,Dinajpur,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+316,Naogaon,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+317,Naogaon,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+318,Naogaon,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+319,Naogaon,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+320,Naogaon,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+321,Naogaon,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+322,Naogaon,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+323,Naogaon,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+324,Naogaon,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+325,Naogaon,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+326,Naogaon,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+327,Naogaon,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+328,Naogaon,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+329,Naogaon,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+330,Naogaon,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+331,Naogaon,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+332,Naogaon,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+333,Naogaon,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+334,Naogaon,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+335,Naogaon,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+336,Naogaon,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+337,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+338,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+339,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+340,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+341,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+342,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+343,Naogaon,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+344,Naogaon,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+345,Naogaon,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+346,Naogaon,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+347,Kurigram,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+348,Kurigram,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+349,Kurigram,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+350,Kurigram,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+351,Kurigram,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+352,Kurigram,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+353,Kurigram,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+354,Kurigram,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+355,Kurigram,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+356,Kurigram,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+357,Kurigram,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+358,Kurigram,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+359,Kurigram,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+360,Kurigram,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+361,Kurigram,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+362,Kurigram,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+363,Kurigram,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+364,Kurigram,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+365,Kurigram,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+366,Kurigram,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+367,Kurigram,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+368,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+369,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+370,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+371,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+372,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+373,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+374,Kurigram,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+375,Kurigram,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+376,Kurigram,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+377,Kurigram,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+378,Lalmonirhat,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+379,Lalmonirhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+380,Lalmonirhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+381,Lalmonirhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+382,Lalmonirhat,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+383,Lalmonirhat,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+384,Lalmonirhat,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+385,Lalmonirhat,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+386,Lalmonirhat,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+387,Lalmonirhat,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+388,Lalmonirhat,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+389,Lalmonirhat,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+390,Lalmonirhat,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+391,Lalmonirhat,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+392,Lalmonirhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+393,Lalmonirhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+394,Lalmonirhat,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+395,Lalmonirhat,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+396,Lalmonirhat,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+397,Lalmonirhat,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+398,Lalmonirhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+399,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+400,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+401,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+402,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+403,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+404,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+405,Lalmonirhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+406,Lalmonirhat,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+407,Lalmonirhat,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+408,Lalmonirhat,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+409,Panchagar,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+410,Panchagar,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+411,Panchagar,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+412,Panchagar,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+413,Panchagar,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+414,Panchagar,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+415,Panchagar,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+416,Panchagar,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+417,Panchagar,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+418,Panchagar,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+419,Panchagar,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+420,Panchagar,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+421,Panchagar,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+422,Panchagar,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+423,Panchagar,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+424,Panchagar,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+425,Panchagar,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+426,Panchagar,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+427,Panchagar,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+428,Panchagar,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+429,Panchagar,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+430,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+431,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+432,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+433,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+434,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+435,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+436,Panchagar,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+437,Panchagar,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+438,Panchagar,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+439,Panchagar,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+440,Bogra,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+441,Bogra,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+442,Bogra,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+443,Bogra,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+444,Bogra,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+445,Bogra,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+446,Bogra,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+447,Bogra,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+448,Bogra,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+449,Bogra,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+450,Bogra,3.5-6.5,Rabi,Onion,16,90,45,80,5,0
+451,Bogra,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+452,Bogra,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+453,Bogra,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+454,Bogra,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+455,Bogra,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+456,Bogra,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+457,Bogra,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+458,Bogra,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+459,Bogra,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+460,Bogra,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+461,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+462,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+463,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+464,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+465,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+466,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+467,Bogra,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+468,Bogra,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+469,Bogra,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+470,Bogra,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+471,Joypurhat,3.5-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+472,Joypurhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+473,Joypurhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+474,Joypurhat,3.5-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+475,Joypurhat,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+476,Joypurhat,3.5-6.5,Rabi,Potato,30,135,30,90,5,3
+477,Joypurhat,3.5-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+478,Joypurhat,3.5-6.5,Rabi,Boro Rice,7.5,150,12,55,0,0
+479,Joypurhat,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+480,Joypurhat,3.5-6.5,Rabi,Marize,10,255,75,80,0,0
+481,Joypurhat,3.5-6.5,Rabi,Onion,16,90,45,80,5,3
+482,Joypurhat,3.5-6.5,Rabi,Radish,60,150,45,80,5,3
+483,Joypurhat,3.5-6.5,Rabi,Cabbage,90,180,66,50,5,3
+484,Joypurhat,3.5-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+485,Joypurhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+486,Joypurhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+487,Joypurhat,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,42,0,0
+488,Joypurhat,3.5-6.5,Kharif-1,T. Aus Rice,4,76,10,25,0,0
+489,Joypurhat,3.5-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+490,Joypurhat,3.5-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+491,Joypurhat,3.5-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+492,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+493,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+494,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+495,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+496,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+497,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+498,Joypurhat,3.5-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+499,Joypurhat,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+500,Joypurhat,3.5-6.5,Round The Year,Sugarcane,100,165,55,120,0,0
+501,Joypurhat,3.5-6.5,Round The Year,Potato,15,70,15,45,0,0
+502,Sirajganj,4.1-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+503,Sirajganj,4.1-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+504,Sirajganj,4.1-6.5,Rabi,Marize,10,255,75,80,0,0
+505,Sirajganj,4.1-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+506,Sirajganj,4.1-6.5,Rabi,Onion,16,90,45,80,5,3
+507,Sirajganj,4.1-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+508,Sirajganj,4.1-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+509,Sirajganj,4.1-6.5,Rabi,Potato,30,135,30,90,5,3
+510,Sirajganj,4.1-6.5,Rabi,Potato,30,135,30,90,5,3
+511,Sirajganj,4.1-6.5,Rabi,Radish,60,150,45,80,5,3
+512,Sirajganj,4.1-6.5,Rabi,Cabbage,90,180,66,50,5,3
+513,Sirajganj,4.1-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+514,Sirajganj,4.1-6.5,Rabi,Radish,60,150,45,80,5,3
+515,Sirajganj,4.1-6.5,Rabi,Cabbage,90,180,66,50,5,3
+516,Sirajganj,4.1-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+517,Sirajganj,4.1-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+518,Sirajganj,4.1-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+519,Sirajganj,4.1-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+520,Sirajganj,4.1-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+521,Sirajganj,4.1-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+522,Sirajganj,4.1-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+523,Sirajganj,4.1-6.5,Kharif-1,Chili,2,96,40,57,0,0
+524,Sirajganj,4.1-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+525,Sirajganj,4.1-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+526,Sirajganj,4.1-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+527,Sirajganj,4.1-6.5,Kharif-1,Boro Rice,7.5,150,12,55,0,0
+528,Sirajganj,4.1-6.5,Kharif-1,Okra,16,90,21,30,5,3
+529,Sirajganj,4.1-6.5,Kharif-1,Brinjal,60,120,25,40,5,3
+530,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+531,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+532,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+533,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+534,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+535,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+536,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+537,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+538,Sirajganj,4.1-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+539,Sirajganj,4.1-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+540,Sirajganj,4.1-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+541,Sirajganj,4.1-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+542,Sirajganj,4.1-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+543,Bogra,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+544,Bogra,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+545,Bogra,4.0-6.5,Rabi,Marize,10,255,75,80,0,0
+546,Bogra,4.0-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+547,Bogra,4.0-6.5,Rabi,Onion,16,90,45,80,5,3
+548,Bogra,4.0-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+549,Bogra,4.0-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+550,Bogra,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+551,Bogra,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+552,Bogra,4.0-6.5,Rabi,Radish,60,150,45,80,5,3
+553,Bogra,4.0-6.5,Rabi,Cabbage,90,180,66,50,5,3
+554,Bogra,4.0-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+555,Bogra,4.0-6.5,Rabi,Radish,60,150,45,80,5,3
+556,Bogra,4.0-6.5,Rabi,Cabbage,90,180,66,50,5,3
+557,Bogra,4.0-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+558,Bogra,4.0-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+559,Bogra,4.0-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+560,Bogra,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+561,Bogra,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+562,Bogra,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+563,Bogra,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+564,Bogra,4.0-6.5,Kharif-1,Chili,2,96,40,57,0,0
+565,Bogra,4.0-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+566,Bogra,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+567,Bogra,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+568,Bogra,4.0-6.5,Kharif-1,Boro Rice,7.5,150,12,55,0,0
+569,Bogra,4.0-6.5,Kharif-1,Okra,16,90,21,30,5,3
+570,Bogra,4.0-6.5,Kharif-1,Brinjal,60,120,25,40,5,3
+571,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+572,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+573,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+574,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+575,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+576,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+577,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+578,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+579,Bogra,4.0-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+580,Bogra,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+581,Bogra,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+582,Bogra,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+583,Bogra,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+584,Pabna,4.3-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+585,Pabna,4.3-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+586,Pabna,4.3-6.5,Rabi,Marize,10,255,75,80,0,0
+587,Pabna,4.3-6.5,Rabi,Wheat,4.5,120,30,60,0,0
+588,Pabna,4.3-6.5,Rabi,Onion,16,90,45,80,5,3
+589,Pabna,4.3-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+590,Pabna,4.3-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+591,Pabna,4.3-6.5,Rabi,Potato,30,135,30,90,5,3
+592,Pabna,4.3-6.5,Rabi,Potato,30,135,30,90,5,3
+593,Pabna,4.3-6.5,Rabi,Radish,60,150,45,80,5,3
+594,Pabna,4.3-6.5,Rabi,Cabbage,90,180,66,50,5,3
+595,Pabna,4.3-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+596,Pabna,4.3-6.5,Rabi,Radish,60,150,45,80,5,3
+597,Pabna,4.3-6.5,Rabi,Cabbage,90,180,66,50,5,3
+598,Pabna,4.3-6.5,Rabi,Caluiflower,30,120,60,76,5,3
+599,Pabna,4.3-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+600,Pabna,4.3-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+601,Pabna,4.3-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+602,Pabna,4.3-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+603,Pabna,4.3-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+604,Pabna,4.3-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+605,Pabna,4.3-6.5,Kharif-1,Chili,2,96,40,57,0,0
+606,Pabna,4.3-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+607,Pabna,4.3-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+608,Pabna,4.3-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+609,Pabna,4.3-6.5,Kharif-1,Boro Rice,7.5,150,12,55,0,0
+610,Pabna,4.3-6.5,Kharif-1,Okra,16,90,21,30,5,3
+611,Pabna,4.3-6.5,Kharif-1,Brinjal,60,120,25,40,5,3
+612,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+613,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+614,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+615,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+616,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+617,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+618,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+619,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+620,Pabna,4.3-6.5,Kharif-2,T. Aman Rice,5,90,10,35,0,0
+621,Pabna,4.3-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+622,Pabna,4.3-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+623,Pabna,4.3-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+624,Pabna,4.3-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+625,Naogaon,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+626,Naogaon,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+627,Naogaon,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+628,Naogaon,4.0-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+629,Naogaon,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+630,Naogaon,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+631,Naogaon,4.0-6.5,Rabi,Marize,10,255,75,80,0,0
+632,Naogaon,4.0-6.5,Rabi,Fallow,0,0,0,0,0,0
+633,Naogaon,4.0-6.5,Rabi,Grasspea (Relay),1.5,15,15,12,0,0
+634,Naogaon,4.0-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+635,Naogaon,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+636,Naogaon,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+637,Naogaon,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+638,Naogaon,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+639,Naogaon,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+640,Naogaon,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+641,Naogaon,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+642,Naogaon,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+643,Naogaon,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+644,Naogaon,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+645,Naogaon,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+646,Natore,4.2-6.3,Rabi,Boro Rice,7.5,150,65,65,0,0
+647,Natore,4.2-6.3,Rabi,Boro Rice,7.5,150,65,65,0,0
+648,Natore,4.2-6.3,Rabi,Boro Rice,7.5,150,65,65,0,0
+649,Natore,4.2-6.3,Rabi,Mustard,1.8,90,65,32,0,0
+650,Natore,4.2-6.3,Rabi,Potato,30,135,30,90,5,3
+651,Natore,4.2-6.3,Rabi,Potato,30,135,30,90,5,3
+652,Natore,4.2-6.3,Rabi,Marize,10,255,75,80,0,0
+653,Natore,4.2-6.3,Rabi,Fallow,0,0,0,0,0,0
+654,Natore,4.2-6.3,Rabi,Grasspea (Relay),1.5,15,15,12,0,0
+655,Natore,4.2-6.3,Kharif-1,Fallow,0,0,0,0,0,0
+656,Natore,4.2-6.3,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+657,Natore,4.2-6.3,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+658,Natore,4.2-6.3,Kharif-1,Jute (O),4.5,111,10,32,0,0
+659,Natore,4.2-6.3,Kharif-1,Jute (O),4.5,111,10,32,0,0
+660,Natore,4.2-6.3,Kharif-2,Fallow,0,0,0,0,0,0
+661,Natore,4.2-6.3,Kharif-2,Fallow,0,0,0,0,0,0
+662,Natore,4.2-6.3,Kharif-2,Fallow,0,0,0,0,0,0
+663,Natore,4.2-6.3,Kharif-2,Fallow,0,0,0,0,0,0
+664,Natore,4.2-6.3,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+665,Natore,4.2-6.3,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+666,Natore,4.2-6.3,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+667,Sirajganj,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+668,Sirajganj,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+669,Sirajganj,4.0-6.5,Rabi,Boro Rice,7.5,150,65,65,0,0
+670,Sirajganj,4.0-6.5,Rabi,Mustard,1.8,90,65,32,0,0
+671,Sirajganj,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+672,Sirajganj,4.0-6.5,Rabi,Potato,30,135,30,90,5,3
+673,Sirajganj,4.0-6.5,Rabi,Marize,10,255,75,80,0,0
+674,Sirajganj,4.0-6.5,Rabi,Fallow,0,0,0,0,0,0
+675,Sirajganj,4.0-6.5,Rabi,Grasspea (Relay),1.5,15,15,12,0,0
+676,Sirajganj,4.0-6.5,Kharif-1,Fallow,0,0,0,0,0,0
+677,Sirajganj,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+678,Sirajganj,4.0-6.5,Kharif-1,T. Aus Rice,4,75,10,20,0,0
+679,Sirajganj,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+680,Sirajganj,4.0-6.5,Kharif-1,Jute (O),4.5,111,10,32,0,0
+681,Sirajganj,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+682,Sirajganj,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+683,Sirajganj,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+684,Sirajganj,4.0-6.5,Kharif-2,Fallow,0,0,0,0,0,0
+685,Sirajganj,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+686,Sirajganj,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+687,Sirajganj,4.0-6.5,Kharif,B. Aman Rice,2.5,25,4,10,0,0
+688,Naogaon,4.8-8.1,Rabi,Boro Rice,7.5,150,15,35,0,0
+689,Naogaon,4.8-8.1,Rabi,Boro Rice,7.5,150,15,35,0,0
+690,Naogaon,4.8-8.1,Rabi,Water Melon,34,100,25,30,0,0
+691,Naogaon,4.8-8.1,Kharif-1,Fallow,0,0,0,0,0,0
+692,Naogaon,4.8-8.1,Kharif-1,Fallow,0,0,0,0,0,0
+693,Naogaon,4.8-8.1,Kharif-1,T. Aus Rice,4,75,6,12,0,0
+694,Naogaon,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
+695,Naogaon,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
+696,Naogaon,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
+697,Chapai Nawabganj,4.8-8.1,Rabi,Boro Rice,7.5,150,15,35,0,0
+698,Chapai Nawabganj,4.8-8.1,Rabi,Boro Rice,7.5,150,15,35,0,0
+699,Chapai Nawabganj,4.8-8.1,Rabi,Water Melom,34,100,25,30,0,0
+700,Chapai Nawabganj,4.8-8.1,Kharif-1,Fallow,0,0,0,0,0,0
+701,Chapai Nawabganj,4.8-8.1,Kharif-1,Fallow,0,0,0,0,0,0
+702,Chapai Nawabganj,4.8-8.1,Kharif-1,T. Aus Rice,4,75,6,12,0,0
+703,Chapai Nawabganj,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
+704,Chapai Nawabganj,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
+705,Chapai Nawabganj,4.8-8.1,Kharif-2,Fallow,0,0,0,0,0,0
